@@ -1,0 +1,30 @@
+{
+  "name": "tifu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/tifu.js",
+  "bin": {
+    "tifu": "./bin/tifu.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "tifu",
+    "cli",
+    "command line",
+    "command",
+    "line"
+  ],
+  "author": {
+    "name": "Juan Rojas",
+    "email": "juanmrojas94@gmail.com",
+    "web": "http://jmrojas.surge.sh",
+    "twitter": "jmrojas94"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2"
+  }
+}
