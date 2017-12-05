@@ -25,6 +25,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.12.2"
+    "commander": "^2.12.2",
+    "nraw": "^0.2.5"
   }
 }
