@@ -22,6 +22,8 @@ Choose whether you want a random post or if you want to choose from a list of ti
   Random
 ```
 
-Then after choosing, the body of the post will be displayed for you to read.
+If "Choose Title" is chosen, a list of titles will appear for you to choose from. When a title is chosen, the body of the post will be displayed for you to read.
+
+If "Random" is chosen, a random post will be displayed.
 
 After reading, you will be prompted to choose if you want to read another post or exit.
