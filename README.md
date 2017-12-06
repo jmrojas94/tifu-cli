@@ -1,6 +1,6 @@
 ## TIFU CLI
 
-Read posts on the ["Today I F'd Up"](https://www.reddit.com/r/tifu/) subreddit right from your command line!
+A simple cli to read posts on the ["Today I F'd Up"](https://www.reddit.com/r/tifu/) subreddit right from your command line!
 
 ### Installation
 
@@ -21,3 +21,7 @@ Choose whether you want a random post or if you want to choose from a list of ti
 ❯ Choose Title
   Random
 ```
+
+Then after choosing, the body of the post will be displayed for you to read.
+
+After reading, you will be prompted to choose if you want to read another post or exit.
