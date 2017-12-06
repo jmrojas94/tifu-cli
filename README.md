@@ -8,7 +8,7 @@ A simple cli to read posts on the ["Today I F'd Up"](https://www.reddit.com/r/ti
 npm install tifu
 ```
 
-### Usage
+### Getting Started
 
 ``` shell
 tifu
@@ -27,3 +27,8 @@ If "Choose Title" is chosen, a list of titles will appear for you to choose from
 If "Random" is chosen, a random post will be displayed.
 
 After reading, you will be prompted to choose if you want to read another post or exit.
+
+## License
+
+Copyright (c) 2017 Juan Rojas (twitter: [@jmrojas94](https://twitter.com/jmrojas94))
+Licensed under the MIT license.

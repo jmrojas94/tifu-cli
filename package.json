@@ -27,7 +27,7 @@
     "type": "git",
     "url": "https://github.com/jmrojas94/tifu-cli.git"
   },
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^2.3.0",
     "clear": "0.0.1",
