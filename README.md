@@ -5,7 +5,7 @@ A simple cli to read posts on the ["Today I F'd Up"](https://www.reddit.com/r/ti
 ### Installation
 
 ``` shell
-npm install tifu
+npm install tifu -g
 ```
 
 ### Getting Started
