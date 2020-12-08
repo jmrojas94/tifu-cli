@@ -7,7 +7,11 @@
     "tifu": "./bin/tifu.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "preinstall": "npx npm-force-resolutions"
+  },
+  "resolutions": {
+    "minimist": "^1.2.5"
   },
   "keywords": [
     "reddit",
@@ -35,5 +39,8 @@
     "figlet": "^1.2.0",
     "inquirer": "^4.0.1",
     "nraw": "^0.2.5"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.5"
   }
 }
